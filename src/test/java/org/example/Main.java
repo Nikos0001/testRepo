@@ -23,6 +23,7 @@ public class Main {
             Scanner input = new Scanner(System.in);
             String buffer = input.nextLine();
             System.out.println(buffer);
+            System.out.println("Hello from your brother!");
         }
     }
 
