@@ -19,7 +19,7 @@ public class Main {
     }
     public static class Scannerz {
         public static void main(String[] args) {
-            System.out.println("Just input smth:");
+            System.out.println("Just input smth for test:");
             Scanner input = new Scanner(System.in);
             String buffer = input.nextLine();
             System.out.println(buffer);
